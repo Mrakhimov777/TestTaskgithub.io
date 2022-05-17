@@ -1,0 +1,77 @@
+{
+    "products": [
+
+        {
+            "image":"1.jpg",
+            "name":"Suit1",
+            "price": 100,
+            "Id": "S1",
+            "available":true,
+            "category": "Men Suit"
+        },
+        {
+            "image":"2.jpg",
+            "name":"Suit1",
+            "price": 120,
+            "Id": "S2",
+            "available":true,
+            "category": "Men Suit"
+
+        },
+        {
+            "image":"3.jpg",
+            "name":"Suit1",
+            "price": 130,
+            "Id": "S3",
+            "available":true,
+            "category": "Men Suit"
+
+        },
+        {
+            "image":"4.jpg",
+            "name":"Suit1",
+            "price": 140,
+            "Id": "S4",
+            "available":true,
+            "category": "Men Suit"
+
+        },
+        {
+            "image":"5.jpg",
+            "name":"Suit1",
+            "price": 150,
+            "Id": "S5",
+            "available":true,
+            "category": "Women Suit"
+
+        },
+        {
+            "image":"6.jpg",
+            "name":"Suit1",
+            "price": 160,
+            "Id": "S6",
+            "available":true,
+            "category": "Women Suit"
+
+        },
+        {
+            "image":"7.jpg",
+            "name":"Suit1",
+            "price": 170,
+            "Id": "S7",
+            "available":true,
+            "category": "Women Suit"
+
+        },
+        {
+            "image":"8.jpg",
+            "name":"Suit1",
+            "price": 180,
+            "Id": "S8",
+            "available":true,
+            "category": "Women Suit"
+
+        }
+
+    ]
+}
